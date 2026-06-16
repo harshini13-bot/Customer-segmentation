@@ -1,47 +1,84 @@
-# Customer Segmentation using Machine Learning
+# Customer Segmentation Dashboard
 
-## Overview
+## Project Overview
 
-This project performs customer segmentation using K-Means Clustering.
+This project uses Machine Learning and Customer Analytics techniques to segment customers based on:
+
+* Age
+* Annual Income
+* Spending Score
+
+The project applies K-Means Clustering to identify customer groups and provides actionable marketing recommendations through an interactive Streamlit dashboard.
+
+---
 
 ## Features
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Scaling
-- K-Means Clustering
-- Elbow Method
-- Silhouette Score
-- PCA Visualization
-- Interactive Plotly Charts
-- Streamlit Dashboard
-- Customer Recommendation Engine
+### Data Preprocessing
+
+* Missing Value Handling
+* Outlier Detection
+* Feature Scaling
+* Data Cleaning
+
+### Exploratory Data Analysis
+
+* Correlation Heatmap
+* Distribution Analysis
+* Pair Plots
+* Interactive Visualizations
+
+### Customer Segmentation
+
+* K-Means Clustering
+* Elbow Method
+* Silhouette Analysis
+* PCA Visualization
+
+### Dashboard
+
+* Customer Segment Prediction
+* KPI Cards
+* Customer Search
+* Segment Distribution Charts
+* 3D Customer Visualization
+* Downloadable Reports
+
+---
 
 ## Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Plotly
-- Matplotlib
-- Seaborn
-- Streamlit
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Plotly
+* Streamlit
+* Matplotlib
+* Seaborn
 
-## Project Structure
+---
 
-data/
+## How to Run
 
-src/
+```bash
+pip install -r requirements.txt
 
-models/
+python train.py
 
-reports/
+streamlit run app.py
+```
 
-assets/
+---
 
-app.py
+## Results
 
-train.py
+The model segments customers into five meaningful customer groups:
 
-README.md
+* Premium Customers
+* Budget Customers
+* Loyal Customers
+* Young High Spenders
+* Occasional Buyers
+
+These segments can be used for targeted marketing campaigns and business decision-making.
