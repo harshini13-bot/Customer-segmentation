@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Cluster,Segment
+1.0,1.0,19.0,109.0,36.0,0,Premium Customers
+2.0,1.0,32.0,32.0,95.0,4,Loyal Customers
+3.0,1.0,61.0,109.0,70.0,2,Occasional Buyers
+4.0,1.0,55.0,69.0,5.0,3,Young High Spenders
+5.0,1.0,23.0,42.0,30.0,1,Budget Customers
+6.0,1.0,53.0,40.0,92.0,4,Loyal Customers
+7.0,0.0,32.0,72.0,76.0,4,Loyal Customers
+8.0,0.0,69.0,126.0,1.0,3,Young High Spenders
+9.0,1.0,62.0,69.0,44.0,3,Young High Spenders
+10.0,0.0,27.0,42.0,98.0,4,Loyal Customers
+11.0,0.0,24.0,26.0,49.0,1,Budget Customers
+12.0,1.0,40.0,123.0,45.0,0,Premium Customers
+13.0,0.0,69.0,20.0,94.0,4,Loyal Customers
+14.0,0.0,52.0,30.0,49.0,4,Loyal Customers
+15.0,1.0,53.0,52.0,81.0,4,Loyal Customers
+16.0,0.0,54.0,39.0,91.0,4,Loyal Customers
+17.0,1.0,20.0,99.0,30.0,0,Premium Customers
+18.0,0.0,23.0,124.0,30.0,0,Premium Customers
+19.0,1.0,42.0,50.0,59.0,4,Loyal Customers
+20.0,0.0,28.0,62.0,46.0,1,Budget Customers
+21.0,1.0,60.0,49.0,90.0,4,Loyal Customers
+22.0,1.0,56.0,96.0,22.0,3,Young High Spenders
+23.0,1.0,28.0,74.0,49.0,0,Premium Customers
+24.0,0.0,58.0,103.0,72.0,2,Occasional Buyers
+25.0,1.0,61.0,56.0,99.0,4,Loyal Customers
+26.0,1.0,32.0,120.0,5.0,0,Premium Customers
+27.0,0.0,43.0,49.0,9.0,1,Budget Customers
+28.0,1.0,54.0,127.0,92.0,2,Occasional Buyers
+29.0,0.0,31.0,98.0,64.0,0,Premium Customers
+30.0,0.0,59.0,73.0,19.0,3,Young High Spenders
+31.0,0.0,26.0,46.0,96.0,4,Loyal Customers
+32.0,0.0,65.0,89.0,55.0,3,Young High Spenders
+33.0,0.0,41.0,43.0,18.0,1,Budget Customers
+34.0,0.0,23.0,111.0,7.0,0,Premium Customers
+35.0,1.0,27.0,95.0,21.0,0,Premium Customers
+36.0,0.0,56.0,23.0,50.0,4,Loyal Customers
+37.0,0.0,56.0,74.0,68.0,2,Occasional Buyers
+38.0,0.0,53.0,125.0,2.0,3,Young High Spenders
+39.0,1.0,61.0,128.0,69.0,2,Occasional Buyers
+40.0,0.0,67.0,97.0,44.0,3,Young High Spenders
+41.0,1.0,36.0,70.0,21.0,1,Budget Customers
+42.0,0.0,18.0,137.0,93.0,0,Premium Customers
+43.0,0.0,50.0,112.0,23.0,3,Young High Spenders
+44.0,1.0,58.0,53.0,82.0,4,Loyal Customers
+45.0,1.0,27.0,62.0,98.0,4,Loyal Customers
+46.0,1.0,52.0,137.0,100.0,2,Occasional Buyers
+47.0,1.0,56.0,56.0,63.0,4,Loyal Customers
+48.0,1.0,25.0,133.0,47.0,0,Premium Customers
+49.0,0.0,33.0,22.0,31.0,1,Budget Customers
+50.0,1.0,23.0,108.0,63.0,0,Premium Customers
+51.0,1.0,66.0,83.0,99.0,2,Occasional Buyers
+52.0,1.0,26.0,99.0,61.0,0,Premium Customers
+53.0,1.0,34.0,82.0,78.0,4,Loyal Customers
+54.0,0.0,31.0,133.0,70.0,0,Premium Customers
+55.0,1.0,63.0,54.0,52.0,3,Young High Spenders
+56.0,0.0,46.0,130.0,67.0,2,Occasional Buyers
+57.0,0.0,25.0,46.0,29.0,1,Budget Customers
+58.0,1.0,39.0,17.0,76.0,4,Loyal Customers
+59.0,1.0,55.0,43.0,1.0,3,Young High Spenders
+60.0,1.0,63.0,95.0,8.0,3,Young High Spenders
+61.0,1.0,22.0,130.0,5.0,0,Premium Customers
+62.0,0.0,22.0,80.0,31.0,0,Premium Customers
+63.0,0.0,60.0,77.0,28.0,3,Young High Spenders
+64.0,1.0,64.0,134.0,74.0,2,Occasional Buyers
+65.0,0.0,33.0,115.0,61.0,0,Premium Customers
+66.0,0.0,30.0,27.0,13.0,1,Budget Customers
+67.0,0.0,40.0,69.0,53.0,4,Loyal Customers
+68.0,0.0,64.0,21.0,87.0,4,Loyal Customers
+69.0,1.0,21.0,66.0,94.0,4,Loyal Customers
+70.0,0.0,69.0,125.0,14.0,3,Young High Spenders
+71.0,1.0,30.0,39.0,69.0,4,Loyal Customers
+72.0,0.0,26.0,69.0,24.0,1,Budget Customers
+73.0,0.0,47.0,46.0,10.0,1,Budget Customers
+74.0,0.0,69.0,125.0,71.0,2,Occasional Buyers
+75.0,1.0,21.0,98.0,70.0,0,Premium Customers
+76.0,1.0,23.0,133.0,97.0,0,Premium Customers
+77.0,1.0,28.0,67.0,63.0,4,Loyal Customers
+78.0,0.0,31.0,125.0,52.0,0,Premium Customers
+79.0,1.0,28.0,63.0,1.0,1,Budget Customers
+80.0,0.0,34.0,133.0,59.0,0,Premium Customers
+81.0,0.0,45.0,104.0,94.0,2,Occasional Buyers
+82.0,0.0,27.0,39.0,38.0,1,Budget Customers
+83.0,1.0,21.0,89.0,95.0,0,Premium Customers
+84.0,1.0,65.0,55.0,8.0,3,Young High Spenders
+85.0,1.0,55.0,76.0,65.0,2,Occasional Buyers
+86.0,1.0,21.0,137.0,66.0,0,Premium Customers
+87.0,1.0,29.0,23.0,77.0,4,Loyal Customers
+88.0,1.0,61.0,125.0,31.0,3,Young High Spenders
+89.0,0.0,25.0,135.0,73.0,0,Premium Customers
+90.0,1.0,55.0,91.0,6.0,3,Young High Spenders
+91.0,1.0,44.0,99.0,75.0,2,Occasional Buyers
+92.0,0.0,34.0,41.0,86.0,4,Loyal Customers
+93.0,0.0,33.0,48.0,51.0,1,Budget Customers
+94.0,1.0,60.0,97.0,39.0,3,Young High Spenders
+95.0,0.0,38.0,133.0,97.0,2,Occasional Buyers
+96.0,1.0,18.0,73.0,80.0,0,Premium Customers
+97.0,1.0,22.0,83.0,28.0,0,Premium Customers
+98.0,0.0,26.0,134.0,45.0,0,Premium Customers
+99.0,1.0,33.0,62.0,37.0,1,Budget Customers
+100.0,1.0,46.0,121.0,70.0,2,Occasional Buyers
+101.0,0.0,57.0,118.0,84.0,2,Occasional Buyers
+102.0,1.0,60.0,119.0,71.0,2,Occasional Buyers
+103.0,0.0,60.0,28.0,18.0,3,Young High Spenders
+104.0,0.0,25.0,128.0,14.0,0,Premium Customers
+105.0,1.0,35.0,51.0,78.0,4,Loyal Customers
+106.0,1.0,63.0,58.0,27.0,3,Young High Spenders
+107.0,0.0,50.0,77.0,33.0,3,Young High Spenders
+108.0,1.0,23.0,96.0,55.0,0,Premium Customers
+109.0,0.0,20.0,15.0,43.0,1,Budget Customers
+110.0,1.0,58.0,48.0,21.0,3,Young High Spenders
+111.0,0.0,53.0,105.0,55.0,2,Occasional Buyers
+112.0,1.0,25.0,24.0,89.0,4,Loyal Customers
+113.0,1.0,52.0,19.0,48.0,4,Loyal Customers
+114.0,1.0,45.0,31.0,6.0,1,Budget Customers
+115.0,0.0,41.0,130.0,6.0,0,Premium Customers
+116.0,0.0,31.0,102.0,32.0,0,Premium Customers
+117.0,1.0,40.0,114.0,72.0,2,Occasional Buyers
+118.0,0.0,57.0,110.0,20.0,3,Young High Spenders
+119.0,1.0,28.0,117.0,23.0,0,Premium Customers
+120.0,0.0,19.0,37.0,95.0,4,Loyal Customers
+121.0,0.0,68.0,134.0,53.0,2,Occasional Buyers
+122.0,1.0,35.0,35.0,90.0,4,Loyal Customers
+123.0,1.0,42.0,126.0,5.0,3,Young High Spenders
+124.0,0.0,32.0,40.0,59.0,4,Loyal Customers
+125.0,0.0,37.0,120.0,30.0,0,Premium Customers
+126.0,1.0,19.0,99.0,25.0,0,Premium Customers
+127.0,0.0,39.0,50.0,9.0,1,Budget Customers
+128.0,0.0,40.0,97.0,66.0,0,Premium Customers
+129.0,0.0,61.0,122.0,69.0,2,Occasional Buyers
+130.0,0.0,19.0,29.0,34.0,1,Budget Customers
+131.0,1.0,55.0,48.0,5.0,3,Young High Spenders
+132.0,1.0,56.0,70.0,45.0,3,Young High Spenders
+133.0,0.0,45.0,92.0,66.0,2,Occasional Buyers
+134.0,1.0,42.0,130.0,74.0,2,Occasional Buyers
+135.0,1.0,34.0,20.0,91.0,4,Loyal Customers
+136.0,0.0,18.0,81.0,69.0,0,Premium Customers
+137.0,1.0,41.0,70.0,9.0,1,Budget Customers
+138.0,0.0,57.0,55.0,85.0,4,Loyal Customers
+139.0,1.0,64.0,130.0,39.0,3,Young High Spenders
+140.0,0.0,60.0,67.0,42.0,3,Young High Spenders
+141.0,0.0,62.0,52.0,71.0,4,Loyal Customers
+142.0,1.0,30.0,68.0,86.0,4,Loyal Customers
+143.0,0.0,61.0,110.0,23.0,3,Young High Spenders
+144.0,0.0,43.0,85.0,1.0,3,Young High Spenders
+145.0,0.0,36.0,41.0,56.0,4,Loyal Customers
+146.0,0.0,47.0,71.0,57.0,4,Loyal Customers
+147.0,1.0,50.0,75.0,95.0,4,Loyal Customers
+148.0,1.0,60.0,25.0,37.0,3,Young High Spenders
+149.0,0.0,23.0,119.0,97.0,0,Premium Customers
+150.0,1.0,61.0,54.0,29.0,3,Young High Spenders
+151.0,1.0,27.0,18.0,6.0,1,Budget Customers
+152.0,1.0,48.0,93.0,99.0,2,Occasional Buyers
+153.0,1.0,47.0,68.0,81.0,4,Loyal Customers
+154.0,1.0,63.0,104.0,50.0,3,Young High Spenders
+155.0,0.0,43.0,46.0,19.0,1,Budget Customers
+156.0,1.0,66.0,125.0,99.0,2,Occasional Buyers
+157.0,1.0,67.0,69.0,29.0,3,Young High Spenders
+158.0,1.0,69.0,137.0,90.0,2,Occasional Buyers
+159.0,0.0,21.0,86.0,32.0,0,Premium Customers
+160.0,1.0,47.0,32.0,60.0,4,Loyal Customers
+161.0,0.0,66.0,129.0,57.0,2,Occasional Buyers
+162.0,0.0,53.0,72.0,21.0,3,Young High Spenders
+163.0,0.0,46.0,48.0,97.0,4,Loyal Customers
+164.0,1.0,58.0,50.0,99.0,4,Loyal Customers
+165.0,0.0,58.0,45.0,36.0,3,Young High Spenders
+166.0,0.0,22.0,106.0,37.0,0,Premium Customers
+167.0,1.0,35.0,57.0,41.0,1,Budget Customers
+168.0,1.0,26.0,34.0,30.0,1,Budget Customers
+169.0,0.0,62.0,34.0,91.0,4,Loyal Customers
+170.0,1.0,22.0,68.0,53.0,0,Premium Customers
+171.0,0.0,52.0,74.0,54.0,3,Young High Spenders
+172.0,1.0,31.0,121.0,54.0,0,Premium Customers
+173.0,0.0,67.0,89.0,90.0,2,Occasional Buyers
+174.0,1.0,66.0,88.0,49.0,3,Young High Spenders
+175.0,0.0,18.0,135.0,46.0,0,Premium Customers
+176.0,0.0,66.0,64.0,54.0,3,Young High Spenders
+177.0,1.0,49.0,43.0,35.0,1,Budget Customers
+178.0,0.0,49.0,18.0,50.0,4,Loyal Customers
+179.0,0.0,60.0,101.0,52.0,2,Occasional Buyers
+180.0,1.0,47.0,132.0,17.0,3,Young High Spenders
+181.0,1.0,43.0,90.0,73.0,2,Occasional Buyers
+182.0,1.0,23.0,97.0,55.0,0,Premium Customers
+183.0,1.0,47.0,38.0,7.0,1,Budget Customers
+184.0,0.0,42.0,56.0,28.0,1,Budget Customers
+185.0,0.0,38.0,58.0,98.0,4,Loyal Customers
+186.0,0.0,35.0,111.0,54.0,0,Premium Customers
+187.0,0.0,23.0,75.0,3.0,1,Budget Customers
+188.0,1.0,40.0,43.0,84.0,4,Loyal Customers
+189.0,1.0,67.0,137.0,84.0,2,Occasional Buyers
+190.0,1.0,66.0,18.0,32.0,3,Young High Spenders
+191.0,1.0,19.0,94.0,20.0,0,Premium Customers
+192.0,1.0,26.0,75.0,86.0,4,Loyal Customers
+193.0,1.0,54.0,136.0,28.0,3,Young High Spenders
+194.0,0.0,62.0,47.0,99.0,4,Loyal Customers
+195.0,0.0,28.0,92.0,78.0,0,Premium Customers
+196.0,1.0,67.0,119.0,21.0,3,Young High Spenders
+197.0,0.0,24.0,89.0,4.0,1,Budget Customers
+198.0,0.0,54.0,101.0,49.0,3,Young High Spenders
+199.0,0.0,63.0,40.0,10.0,3,Young High Spenders
+200.0,1.0,24.0,104.0,99.0,0,Premium Customers
